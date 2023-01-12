@@ -1,0 +1,19 @@
+Você pode experimentar o GitHub com a sua equipe de graça. 
+Existe um plano básico disponível que inclui repositórios e colaboradores ilimitados, mas oferece apenas 500 MB de espaço de armazenamento.
+
+Repositorio:
+Repositório, ou repo, é um diretório onde os arquivos do seu projeto ficam armazenados. 
+Ele pode ficar em um depósito do GitHub ou em seu computador. Você pode armazenar códigos, imagens, áudios, ou qualquer outra coisa relacionada ao projeto no diretório.
+
+Branches:
+Ao criar branches, ou ramificações, você gera versões diferentes de um repositório. 
+Quando você modifica o projeto nas branches de recursos, um desenvolvedor pode ver como isso vai afetar o projeto principal na hora que tudo for integrado.
+
+Commits:
+Os Commits é como as mudanças salvas no GitHub são chamadas. Cada vez que você muda o arquivo do branch de recurso, você terá que executar um Commit para mantê-lo.
+
+Pull Requests:
+Para propor as mudanças que você acabou de fazer para outros desenvolvedores trabalhando no mesmo projeto, você deve criar um pull request. 
+São eles que fazem ser tão fácil de trabalhar junto em projetos, já que eles são a principal ferramenta de colaboração no GitHub.
+Pull Requests permitem que você veja as diferenças entre o projeto original e o seu branch de recurso. É assim que você pede para os seus pares revisá-las. 
+Se os outros desenvolvedores aprovarem as modificações, eles podem executar um merge pull request (solicitação de mesclagem). Isso irá aplicar as mudanças para o projeto principal.

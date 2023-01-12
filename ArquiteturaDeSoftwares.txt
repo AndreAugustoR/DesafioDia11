@@ -1,0 +1,12 @@
+Arquitetura de software é um conceito abstrato, que se refere à organização de um sistema. 
+Ela é responsável por definir os componentes que farão parte de um projeto, suas características, funções e a forma como devem interagir entre si e com outros softwares.
+Esta área da TI é responsável pela análise estratégica dos componentes operacionais que permitem criar soluções viáveis para uma tecnologia. Para isso, leva em conta aspectos como:
+desempenho;
+escalabilidade;
+interoperabilidade;
+compatibilidade;
+performance.
+Com a arquitetura de software, é possível entender as diferenças entre as linguagens, sistemas operacionais e ambientes da computação. 
+Ou seja, qualquer componente tecnológico pode ser usado para integrar uma solução arquitetural.
+Essa parte é essencial, pois otimiza o trabalho dos designers e desenvolvedores, 
+permitindo que uma aplicação esteja dentro dos padrões básicos necessários para funcionar de forma satisfatória.

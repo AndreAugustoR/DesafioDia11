@@ -1,0 +1,8 @@
+As metodologias ágeis são uma forma de acelerar entregas de um determinado projeto. Ela consiste no fracionamento de entregas para o cliente final em ciclos menores. 
+Com isso, eventuais problemas podem ser corrigidos mais rapidamente e os planejamentos serem revistos. 
+Apesar de sua aplicação ter iniciado e ser muito comum em equipes de desenvolvimento, a estratégia pode ser utilizada em qualquer tipo de projeto.
+Com o foco no cliente final e na entrega de valor, os métodos ágeis visam estimular uma gestão de processos que garanta o controle e possíveis ajustes frequentemente. 
+É uma filosofia que promove o trabalho em equipe, a colaboração entre os funcionários e a inteligência coletiva. 
+Basicamente, os métodos ágeis são um conjunto de práticas eficazes que se destinam a tornar a entrega mais rápida de produtos de alta qualidade, 
+tendo uma abordagem de negócios que alinha o desenvolvimento do projeto com as necessidades do cliente e os objetivos da empresa. 
+Esse processo dá ao cliente a oportunidade de conhecer os resultados do trabalho antecipadamente, aumentando assim a sinergia entre a empresa, o cliente e o projeto.

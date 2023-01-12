@@ -1,0 +1,5 @@
+Lógica é a ciência que expõe os modos e diversas formas do conhecimento científico. 
+Serve para validar fatos e teorias de maneira racional. Com ela é possível distinguir o raciocínio correto do incorreto. 
+Desenvolver o raciocínio lógico ajuda a prevenir doenças como o Alzheimer e a depressão. Veja abaixo como a lógica da programação está em alta atualmente e conheça seus benefícios.
+O conceito de lógica pode ser aplicado a diversas áreas de estudo, mas a que nos chama mais atenção nos tempos atuais é a lógica de programação, 
+a qual iniciou-se com o avanço da ciência da computação ao longo dos anos, com o objetivo de expressar linguagens de programação, como o C, Java, Phyton, Pascal, Fortran e Cobol.
